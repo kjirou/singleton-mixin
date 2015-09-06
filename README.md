@@ -6,6 +6,13 @@
 Attach singleton-pattern by Mix-in
 
 
+## Installation
+
+```
+npm install --save singleton-mixin
+```
+
+
 ## Example
 
 ```
