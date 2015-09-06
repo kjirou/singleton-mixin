@@ -1,0 +1,28 @@
+{
+  "name": "singleton-mixin",
+  "version": "0.0.0",
+  "description": "Attach singleton-pattern by Mix-in",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjirou/singleton-mixin.git"
+  },
+  "keywords": [
+    "singleton",
+    "mixin",
+    "design-pattern"
+  ],
+  "author": "kjirou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjirou/singleton-mixin/issues"
+  },
+  "homepage": "https://github.com/kjirou/singleton-mixin#readme",
+  "devDependencies": {
+    "mocha": "2.3.0",
+    "object-assign": "4.0.1"
+  }
+}
