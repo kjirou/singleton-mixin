@@ -1,6 +1,6 @@
 {
   "name": "singleton-mixin",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Attach singleton-pattern by Mix-in",
   "main": "index.js",
   "scripts": {
