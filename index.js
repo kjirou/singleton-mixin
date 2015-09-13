@@ -14,7 +14,7 @@ var SingletonMixin = {
 
   clearInstance: function clearInstance() {
     // Overwrite for each classes if needed
-    if (this.destructInstance) {
+    if (this._instance && this.destructInstance) {
       this.destructInstance();
     }
     this._instance = null;
